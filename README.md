@@ -16,8 +16,7 @@
 
 Connect with me: 
 
-https://www.linkedin.com/in/srujana-g-5559371a1/
-
+[![linkedin](https://tse4.mm.bing.net/th?id=OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa&pid=Api&P=0&w=50&h=50)](https://www.linkedin.com/in/srujana-g-5559371a1/)
 
 Languages and Tools:
 
@@ -29,6 +28,6 @@ Languages and Tools:
 [![javascript](https://tse3.mm.bing.net/th?id=OIP.ViV1OEesGeL1Qcjvf0HhJgHaIB&pid=Api&P=0&w=70&h=70)](https://www.w3schools.com/js/DEFAULT.asp) 
 [![mongodb](https://tse2.mm.bing.net/th?id=OIP.eTG_I4LEgyGwP3RLc65GjAHaEG&pid=Api&P=0&w=100&h=100)](https://www.mongodb.com/) 
 [![reactjs](https://tse4.mm.bing.net/th?id=OIP.BK6Tbu9LyxDV_zD7CAecFwAAAA&pid=Api&P=0&w=50&h=50)](https://reactjs.org/)
-[![redux](https://tse3.mm.bing.net/th?id=OIP.PK9PX78wIF3ilxf8zI4dnAHaDx&pid=Api&P=0&w=100&h=100)](https://redux.js.org/) 
+[![redux](https://tse4.mm.bing.net/th?id=OIP.ScAlvu_NcVBdNeUZ1DXQMwHaDD&pid=Api&P=0&w=100&h=100)](https://redux.js.org/) 
 [![sass](https://tse4.mm.bing.net/th?id=OIP.HuHbi6D0rpzsTenMxWgfXgHaFj&pid=Api&P=0&w=70&h=70)](https://www.w3schools.com/sass/)
-[![typescript](https://tse3.mm.bing.net/th?id=OIP.2auocZ_dbHod0dcZm_OJUwHaHa&pid=Api&P=0&w=70&h=70)](https://www.typescriptlang.org/)
+[![typescript](https://tse3.mm.bing.net/th?id=OIP.2auocZ_dbHod0dcZm_OJUwHaHa&pid=Api&P=0&w=70&h=60)](https://www.typescriptlang.org/)
