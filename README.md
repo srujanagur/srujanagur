@@ -6,7 +6,7 @@
 
 . I am very interested to learn new things.
 
-. 🔭 I’m currently working on E-commerce website
+. 🔭 I’m currently working on Music_app
 
 . 🌱 I’m currently learning ReactJs(Frontend library),MongoDB(DataBase),Typescript, ExpressJs(Backend),                      DevOps(Docker, Github Actions), Cloud Services(AWS)  At Integrify.
 
